@@ -1,4 +1,5 @@
 
 /build/
 /.idea/
+.gradle
 /map-reduce-practice.iml
